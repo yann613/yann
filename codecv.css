@@ -1,0 +1,24 @@
+.fond{background-image:url(c:\Users\hp\Downloads\bi.png);background-size:cover;} 
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f9f9f9;
+        }
+        .cv-container {
+            background: white;
+            padding: 30px;
+            max-width: 800px;
+            margin: auto;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .fond{background-color: lightgreen;
+        }
+        h1{
+            text-align: center;
+        }
